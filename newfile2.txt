@@ -1,1 +1,1 @@
-created from gitbranch2
+Created newfiletext2.txt from gitbranch2
